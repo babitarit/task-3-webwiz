@@ -1,0 +1,188 @@
+*{
+     margin: 0px;
+     padding: 0px;  
+  
+}
+body,html{
+    margin: 0px;
+     padding: 0px;  
+    
+
+}
+.landingpage{
+    background-image: url("landing-backdrop-min.png");
+    height: 100vh;
+    width: 100vw;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+.space{
+    font-size: 2rem;
+    
+}
+/* .big{
+    overflow: hidden;
+} */
+
+.lastcontainer{
+    height: 60vh;
+    color: #ffffff;
+    padding: 2rem;
+    background-color: #000000e0;
+    width: 100vw;
+}
+.rowt{
+    margin-top: 2rem;
+}
+.conta{
+    height: 59vh;
+}
+.color{
+    color:  #ff0000cf;
+}
+.ro{
+    margin-top: 3rem;
+}
+.par{
+    font-size: 1.3rem;
+    color: grey;
+}
+.vivo{
+    margin-top: 3rem;
+}
+.help{
+    background-color: #000000e0;
+    height: 100vh;
+    color: white;
+    width: 100vw;
+}
+.mag{
+    margin-top: 9rem;
+    background-image: url("Claim_Warranty_shutterstock_11.png");
+    background-repeat: no-repeat;
+    background-size: 350px 200px;
+    filter: blur(.6px);
+    color: #2c1e1e;
+}
+.coli{
+    margin-top: 3rem;
+}
+.pix{
+    color: #de0b0b;
+}
+.product{
+    height: 95vh;
+    width: 100vw;
+}
+.redbox{
+    background-color: #de0b0b ;
+    color: white;
+    height: 189px;
+    padding: 3rem;
+    width: 80%;
+}
+.services{
+    height: 50vh;
+    background-color: #000000e6;
+    width: 100vw;
+}
+.card-bodi{
+    height: 250px;
+    background-color: #000000cf;
+    color: white;
+    padding: 4rem;
+}
+.card{
+    margin-top: 3rem;
+    height: 18rem;
+    background-color: #2f2d2d;
+    color: white;
+}
+.sub{
+    width: 100vw;
+}
+#last{
+    width: 100vw;
+}
+.ruf{
+    margin-top: 7rem;
+    color: #ffffffd1;
+}
+.cla{
+    color: #ffffffd1 ;
+}
+.yup{
+    margin-top: 2rem;
+    font-size: 1.3rem;
+}
+.yup:hover{
+    color: #de0b0b;
+    
+}
+#last{
+    background-color: black;
+}
+.car{
+    height: 10rem;
+    background: white;
+    color: black;
+    border: 2px solid red;
+}
+.big{
+    overflow: hidden;
+}
+@media screen and (max-width:748px)
+{
+    .yupi{
+        visibility: hidden;
+    }
+    .vo{
+        visibility: hidden;
+    }
+    .container{
+        height: 100vh;
+        width: 100vw;
+    }
+    .par{
+        font-size: 1rem;
+    }
+    .help{
+        height: 116vh;
+    }
+    .pix{
+        font-size: 1rem;
+    }
+    .card-bodi{
+        padding: 5rem;
+
+
+
+    }
+    .imogi{
+        visibility: hidden;
+    }
+    .product{
+        height: 128vh;
+    }
+    .bn{
+        height: 166px;
+    }
+    .redbox{
+        width: 100%;
+        height: 131px;
+    }
+    .car{
+        height: 12rem;
+    }
+    .services{
+        height: 110vh;
+    }
+    .cardu{
+        height: 11rem;
+    }
+    .space{
+        margin-top: -10rem;
+    }
+}
